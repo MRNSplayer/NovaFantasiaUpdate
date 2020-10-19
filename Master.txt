@@ -1,3 +1,2 @@
 <Version: 1.00>
-/img/japan.png https://i.imgur.com/0EnQkoJ.png
 <End of Version>
