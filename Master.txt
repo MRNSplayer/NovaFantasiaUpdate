@@ -1,4 +1,4 @@
-<Version: 1.00>
+<Version: 1.01>
 www/data/CommonEvents.json https://www.dropbox.com/s/s1n9mvaxzu3vogj/CommonEvents.json
 www/data/Map290.json https://www.dropbox.com/s/ykbllbj638t1swc/Map290.json
 www/js/plugin.js https://www.dropbox.com/s/vu4juge03e87475/plugins.js
