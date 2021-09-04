@@ -1,10 +1,5 @@
-<Version: 1.02>
-/www/data/Map029.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map029.json
-<End of Version>
-
 <Version: 1.01>
-/www/data/Map290.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map290.json
-/www/js/plugin.js https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/plugins.js
+/www/data/Map029.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map029.json
 <End of Version>
 
 <Version: 1.00>
