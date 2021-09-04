@@ -1,5 +1,5 @@
 <Version: 1.02>
-/data/Map010.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map010.json
+/Nova Fantasia/www/data/Map010.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map010.json
 <End of Version>
 
 <Version: 1.01>
